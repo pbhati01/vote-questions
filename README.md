@@ -3,7 +3,7 @@ This is a single page application that lets users vote through the Polls API.
 
 This application inclueds following features:
 
-* List of questions page, from this page user can slect question to vote. [Question list](https://polls.apiblueprint.org/questions)
+* List of questions page, from this page user can select question to vote. [Question list](https://polls.apiblueprint.org/questions)
 * Question Details page, from this page user can vote on question with selecting choice.
 * Create New Question page, User can new question with choices.
 * Application is able to launch in offline mode as well.
