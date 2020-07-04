@@ -61,7 +61,7 @@ const AddQuestion = (props) => {
 
   return (
     <section className={classes.addQuestionContainer}>
-      <h2>Add Question Form</h2>
+      <h2>Create Question</h2>
       <Table>
         <tbody>
           <tr>
