@@ -25,6 +25,7 @@ export default (({ breakpoints: { desktop }, fontFamily}) => ({
           '& td': {
             padding: 10,
             borderTop: 'none',
+            wordWrap: 'break-word',
           },
           '& td:first-child': {
             fontWeight: 'bold',

@@ -20,6 +20,8 @@ const AddQuestion = (props) => {
 
   const createQuestion = () => {
     dispatch(dataActions.createQuestion(appRoot, question));
+    setQuestion({question:'', choices: []});
+    setChoices([]);
   }
 
   const goBack = () => {
